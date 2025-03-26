@@ -18,12 +18,12 @@ A Flask-based API for classifying email content and attachments (PDF, DOCX, EML,
 
 Features
 
-# Classify single files or multiple files in bulk
-# Supports PDF, DOCX, EML, and plain text files
-# Duplicate detection using content hashing
-# Configurable request types and sub-types
-# Swagger/OpenAPI documentation
-# Parallel processing for bulk classification
+- Classify single files or multiple files in bulk
+- Supports PDF, DOCX, EML, and plain text files
+- Duplicate detection using content hashing
+- Configurable request types and sub-types
+- Swagger/OpenAPI documentation
+- Parallel processing for bulk classification
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
