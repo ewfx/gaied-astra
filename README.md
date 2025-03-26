@@ -27,10 +27,14 @@ Features
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
+Not Applicable
 📹 [Video Demo](#) (if applicable)  
+artifacts/demo/demo_part1.mp4
+artifacts/demo/demo_part2.mp4
 🖼️ Screenshots:
 
 ![Screenshot 1](link-to-image)
+
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
