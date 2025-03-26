@@ -14,7 +14,16 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+A Flask-based API for classifying email content and attachments (PDF, DOCX, EML, or plain text) using OpenAI's GPT model.
+
+Features
+
+Classify single files or multiple files in bulk
+Supports PDF, DOCX, EML, and plain text files
+Duplicate detection using content hashing
+Configurable request types and sub-types
+Swagger/OpenAPI documentation
+Parallel processing for bulk classification
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
