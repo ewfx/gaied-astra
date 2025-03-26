@@ -6,7 +6,12 @@
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
-- [Challenges We Faced](#challenges-we-faced)
+- [Challenges We Faced]
+- Extracting structured data from unstructured emails, PDFs, and DOCX files can be tricky. Text extraction may not always be clean, leading to noisy data for processing.
+- The OpenAI free tier may have limitations on the number of requests and usage, so the challenge is to fine-tune the AI model with limited data and ensure it can generalize well to unseen requests.
+- Identifying exact duplicates across different formats (e.g., an email and a PDF with the same content) can be challenging. We need to handle cases where a request is similar but not
+- Automatically determining the priority of a request is not always straightforward. Requests may require additional contextual understanding that the AI needs to infer from keywords and context.
+- The system needs to be efficient enough to process large volumes of incoming requests in real-time or near-real-time.
 - [How to Run](#how-to-run)
 - [Tech Stack](#tech-stack)
 - [Team](#team)
