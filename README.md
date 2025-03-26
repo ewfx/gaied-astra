@@ -32,7 +32,7 @@ Features
 - (https://github.com/ewfx/gaied-astra/blob/main/artifacts/demo/demo_part1.mp4)
 - (https://github.com/ewfx/gaied-astra/blob/main/artifacts/demo/demo_part2.mp4)
 - 🖼️ Screenshots:
-- [Screenshot 1](https://github.com/ewfx/gaied-astra/blob/main/code/test/TestReport/Test%20result.docx)
+- (https://github.com/ewfx/gaied-astra/blob/main/code/test/TestReport/Test%20result.docx)
 
 
 ## 💡 Inspiration
